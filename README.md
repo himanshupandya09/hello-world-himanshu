@@ -1,4 +1,4 @@
-# hello-world-himanshu
+# himanshu
 first repository of training
 hii everyone,
 i am himanshu pandya
